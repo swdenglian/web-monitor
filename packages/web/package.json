@@ -24,6 +24,7 @@
     "@ant-design/pro-layout": "^6.5.0",
     "@types/pako": "^1.0.1",
     "@umijs/preset-react": "1.x",
+    "axios": "^0.21.1",
     "monitor-collect": "^1.0.0",
     "pako": "^2.0.3",
     "umi": "^3.4.2",
